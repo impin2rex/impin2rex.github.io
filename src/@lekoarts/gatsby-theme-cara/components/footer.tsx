@@ -30,7 +30,6 @@ const Footer = () => {
           a: { color: `text` },
         }}
       >
-        <img width="30" height="30" src="impin2rex.png" alt="impin2rex Logo" />
         {` `}
         <Link
           aria-label="Link to the theme's GitHub repository"
