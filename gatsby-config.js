@@ -59,4 +59,5 @@ module.exports = {
       },
     },
   ].filter(Boolean),
+  pathPrefix: "/impin2rex.github.io"
 }
